@@ -10,24 +10,24 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "dotenv": "^8.2.0",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "vt-notifications": "^0.3.1",
     "vue": "^2.6.11",
-    "vue-resource": "^1.5.1",
+    "vue-resource": "^1.5.3",
     "vue-router": "^3.4.9"
   },
   "devDependencies": {
     "@tailwindcss/postcss7-compat": "^2.0.2",
-    "@vue/cli-plugin-babel": "~4.5.0",
-    "@vue/cli-plugin-eslint": "~4.5.0",
-    "@vue/cli-service": "~4.5.0",
+    "@vue/cli-plugin-babel": "~5.0.8",
+    "@vue/cli-plugin-eslint": "~5.0.8",
+    "@vue/cli-service": "~5.0.8",
     "autoprefixer": "^9.8.6",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
-    "postcss": "^7.0.35",
+    "postcss": "^8.4.31",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.7.16"
   },
   "eslintConfig": {
     "root": true,
